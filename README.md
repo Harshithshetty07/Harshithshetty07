@@ -1,6 +1,11 @@
-# 💫 About Me:
-I’m a Frontend Developer specializing in modern web technologies.<br>I love turning ideas into visually appealing, high-performance applications.<br>With experience in React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB,<br>I aim to create seamless digital experiences powered by clean, efficient, and scalable code.
+👨‍💻 About Me
 
+🔭 Currently working as Software Engineer at CMTI (Central Manufacturing Technology Institute)
+🚀 Specializing in Real-time dashboards, IoT integration, and Industrial monitoring systems
+💼 Delivered 3 high-quality enterprise solutions with measurable impact: 30% faster deployments, 27% performance boost
+🌱 Building Smart Manufacturing & Industry 4.0 applications
+💡 Passionate about transforming complex data into intuitive interfaces
+🎯 Currently exploring opportunities in Product-based companies and Cloud platforms
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshithkv18/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithkv0018@gmail.com) 
